@@ -1,0 +1,75 @@
+.popstyle {
+    font-style: normal; font-family: inherit; font-size: 40px; float: left; 
+    height: 90px; color: #1c1e21; font-weight: 600; padding-left: 90px; padding-top: 10px;
+}
+
+.formalign {
+    margin-left: 5px; 
+    padding-top: 10px;
+
+}
+
+.position {
+align-items: center;
+font-size: 40px;
+white-space: nowrap;
+color: #1d2129;
+display: block;
+font-family: 'Freight Sans Bold', Arial, Helvetica, sans-serif ;
+font-weight: normal;
+letter-spacing: normal;
+padding-top: 30px;
+margin-left: 50px;
+text-align: center;
+vertical-align: middle;
+}
+
+#above{
+    color:white;
+}
+
+#footer-signup{
+    /* background-color: red; */
+    border-top: 1px solid rgb(223, 211, 211);
+}
+
+#pop2{
+    font-size: 25px;
+    font-family: 'Freight Sans', Arial, Helvetica, sans-serif;
+    letter-spacing: normal;
+    color: #4b4f56;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 22px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+button{
+    width: 80px; 
+}
+
+.move{
+    margin-top: 40px;
+    width: 500px;
+    padding-bottom: 30px;
+    align-content: center;
+    margin-left: 500px;
+
+}
+
+#button{
+    align-items: center;
+    padding-top: 25px;
+    margin-top: 5px;
+}
+
+.field1{
+   width: 445px;
+   
+}
+
+
+
+
